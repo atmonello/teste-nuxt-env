@@ -1,0 +1,5 @@
+nuxt.config.js
+node_modules/
+dist/
+.nuxt/
+assets/
